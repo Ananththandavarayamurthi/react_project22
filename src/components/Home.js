@@ -21,7 +21,6 @@ function Home() {
             </div>
         </header>
 
-        <h1>{addCart}</h1>
 
         <section className="py-5">
             <div className="container px-4 px-lg-5 mt-5">
